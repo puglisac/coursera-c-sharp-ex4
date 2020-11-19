@@ -1,4 +1,4 @@
-#Exercise 4: Calculating with Integers
+# Exercise 4: Calculating with Integers
 
 This is an exercise for the coursera course [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity)
 
