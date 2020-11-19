@@ -12,7 +12,7 @@ Prompt for and get the altitude for a second location as an 𝚒𝚗𝚝.
 Calculate and display the altitude change you'd experience moving from the first point to the second      point.  
  Hint: The order of the subtraction matters, so make sure you're getting the correct sign on your answer.
  
- ## Installation
+## Installation
 To install, follow these steps:
 
 Via Downloading from GitHub:
@@ -22,4 +22,6 @@ Download and extract the zip file to a directory of your choice.
 
 Via command line:
 
-`$ git clone https://github.com/puglisac/MoviesApp.git`
+`$ git clone https://github.com/puglisac/coursera-c-sharp-ex4.git`  
+
+open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
